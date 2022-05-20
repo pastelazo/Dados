@@ -1,0 +1,13 @@
+La app cumple la función de arrojar 2 dados y mostrarlos graficamente.
+Se puede utilizar una y otra vez sin necesidad de cerrar la app.
+Tiene solo 2 botones, uno para arrojar los dados y otro para cerrar la app (boton de "exit" normal desactivado).
+Tamaño fijo, no se permite redimensionar.
+Se puede ejecutar directamente el archivo .jar en la carpeta "dist", o se puede ver el codigo fuente.
+Creado para uso academico.
+
+
+
+
+
+
+Gutierrez, Nicolas H.A.
